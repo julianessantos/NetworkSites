@@ -10,7 +10,7 @@
   "text": {
     "more": "O grafo de Joyland conecta personagens, locais e eventos principais, destacando interações e proximidade narrativa. Ele revela hubs centrais, como o parque de diversões, e as relações que movem a trama.",
     "intro": "O grafo de Joyland conecta personagens, locais e eventos principais, destacando interações e proximidade narrativa. Ele revela hubs centrais, como o parque de diversões, e as relações que movem a trama.",
-    "title": "Joyland Network"
+    "title": "Rede Network: Joyland"
   },
   "legend": {
     "edgeLabel": "Representam conexões entre as entidades com base na coocorrência ou interações no texto.",
